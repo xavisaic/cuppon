@@ -1,0 +1,11 @@
+.card-title{
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar{
+    background-color: #28A745;
+}
+
+.price{
+    border-top: solid gray 1px;
+}
